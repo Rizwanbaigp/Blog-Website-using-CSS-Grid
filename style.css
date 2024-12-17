@@ -9,7 +9,10 @@ body{
 }
 .container{
     height: 100%;
-    width: 100%;
+    max-width: 95vw;
+    padding: 2rem 1rem;
+    margin: 0 auto;
+    /* background-color: aqua; */
 
 }
 
